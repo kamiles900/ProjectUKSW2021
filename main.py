@@ -7,7 +7,7 @@ from data import deleted_words
 
 #------Text analyzer------
 
-#load up txt file
+#load up txt file with book and change test.txt for the book file name
 file_a = open('test.txt','r')
 file_a = file_a.read().lower()
 

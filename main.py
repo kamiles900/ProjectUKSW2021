@@ -168,6 +168,11 @@ def chart2():
 #chart2()
 
 
+# After run, program produces 3 txt files 
+# occurences.txt - number of occurences of  each word
+# words.txt, words2.txt - list of words from the bood and second list after deleting some words.
+# 2 charts in png file represents words and occurences 
+
 
 
 
